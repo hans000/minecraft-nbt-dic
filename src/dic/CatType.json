@@ -1,0 +1,14 @@
+[
+    { "id": "-1", "name": "Invisible" },
+    { "id": "0", "name": "Tabby" },
+    { "id": "1", "name": "Tuxedo" },
+    { "id": "2", "name": "Red" },
+    { "id": "3", "name": "Siamese" },
+    { "id": "4", "name": "Shorthair" },
+    { "id": "5", "name": "Calico" },
+    { "id": "6", "name": "Persian" },
+    { "id": "7", "name": "Ragdoll" },
+    { "id": "8", "name": "White" },
+    { "id": "9", "name": "Jellie" },
+    { "id": "10", "name": "Black" }
+]

@@ -1,0 +1,13 @@
+[
+    { "id": "0", "name": "Circling" },
+    { "id": "1", "name": "Strafing" },
+    { "id": "2", "name": "FlyingToPortal" },
+    { "id": "3", "name": "Landing" },
+    { "id": "4", "name": "TakingOff" },
+    { "id": "5", "name": "BreathAttack" },
+    { "id": "6", "name": "Landed" },
+    { "id": "7", "name": "Roar" },
+    { "id": "8", "name": "Charging" },
+    { "id": "9", "name": "Dying" },
+    { "id": "10", "name": "Hovering" }
+]

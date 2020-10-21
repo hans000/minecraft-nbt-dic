@@ -1,0 +1,6 @@
+[
+    { "id": "NONE", "name": "NONE" },
+    { "id": "CLOCKWISE_90", "name": "CLOCKWISE_90" },
+    { "id": "CLOCKWISE_180", "name": "CLOCKWISE_180" },
+    { "id": "COUNTERCLOCKWISE_90", "name": "COUNTERCLOCKWISE_90" }
+]

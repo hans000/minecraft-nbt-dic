@@ -1,0 +1,8 @@
+[
+    { "id": 0, "name": "down" },
+    { "id": 1, "name": "up" },
+    { "id": 2, "name": "north" },
+    { "id": 3, "name": "south" },
+    { "id": 4, "name": "west" },
+    { "id": 5, "name": "east" }
+]

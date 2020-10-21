@@ -1,0 +1,7 @@
+[
+    { "id": 0, "name": "SmallBall" },
+    { "id": 1, "name": "LargeBall" },
+    { "id": 2, "name": "Star" },
+    { "id": 3, "name": "Creeper" },
+    { "id": 4, "name": "Burst" }
+]

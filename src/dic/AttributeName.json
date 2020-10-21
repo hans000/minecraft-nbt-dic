@@ -1,0 +1,16 @@
+[
+    { "default": 0, "min": 0, "max": 0, "id": "maxHealth", "name": "生命上限", "desc": "这个生物的最大生命值；亦或这个生物通过生命恢复最多可以恢复至的极限。你需要运用[Health:#]nbt改变生物的当前生命值" },
+    { "default": 0, "min": 0, "max": 0, "id": "followRange", "name": "追踪范围", "desc": "这个生物追踪玩家或者其他生物的最大范围，以方块数为单位。目标离开这个区域意味着它们将停止追踪。目前大多数生物这个值为16，而僵尸则有40" },
+    { "default": 0, "min": 0, "max": 0, "id": "knockbackResistance", "name": "抗击退程度", "desc": "这个生物的抗击退效果（包括攻击的击退、爆炸和弹射物冲击）的程度，1.0代表完全抵抗" },
+    { "default": 0, "min": 0, "max": 0, "id": "movementSpeed", "name": "移动速度", "desc": "以格/秒为单位的生物最大速度略高于此值的43倍，y = 43.178x-0.02141" },
+    { "default": 0, "min": 0, "max": 0, "id": "attackDamage", "name": "攻击伤害", "desc": "普通攻击造成的伤害，一点表示半个心形标志。此属性在被动生物和傀儡中未找到" },
+    { "default": 0, "min": 0, "max": 0, "id": "armor", "name": "防御点数", "desc": "防御点数" },
+    { "default": 0, "min": 0, "max": 0, "id": "armorToughness", "name": "盔甲韧性", "desc": "盔甲韧性" },
+    { "default": 4, "min": 0, "max": 1024, "id": "attackSpeed", "name": "攻击速度", "desc": "决定攻击力度的填充速度，值代表每秒可以进行全力攻击的次数" },
+    { "default": 0, "min": -1024, "max": 1024, "id": "luck", "name": "幸运点数", "desc": "影响战利品表使用的quality和bonus_rolls（例如当打开箱子、运输矿车，钓鱼和杀怪）" },
+    { "default": 3, "min": 0, "max": 6, "id": "attackReach", "name": "攻击距离‌‌", "desc": "玩家的攻击距离‌‌" },
+    { "default": 5, "min": 0, "max": 256, "id": "reachDistance", "name": "触及半径", "desc": "玩家的触及半径" },
+    { "default": 0.7, "min": 0, "max": 2, "id": "jumpStrength", "name": "弹跳点数", "desc": "在某种不明度量标准下马的弹跳力" },
+    { "default": 0.4, "min": 0, "max": 1024, "id": "flyingSpeed", "name": "飞行速度", "desc": "在某种不明度量标准下鹦鹉的飞行速度" },
+    { "default": 0, "min": 0, "max": 1, "id": "spawnReinforcements", "name": "援军", "desc": "僵尸在一次攻击中在周围生成另一个僵尸的可能性" }
+]

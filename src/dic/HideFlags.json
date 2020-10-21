@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Enchantments" },
+    { "id": 2, "name": "AttributeModifiers" },
+    { "id": 4, "name": "Unbreakable" },
+    { "id": 8, "name": "CanDestroy" },
+    { "id": 16, "name": "CanPlaceOn" },
+    { "id": 32, "name": "Other" }
+]

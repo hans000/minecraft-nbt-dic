@@ -1,0 +1,6 @@
+[
+    { "id": "SAVE", "name": "SAVE" },
+    { "id": "LOAD", "name": "LOAD" },
+    { "id": "LOAD", "name": "LOAD" },
+    { "id": "CORNER", "name": "CORNER" }
+]

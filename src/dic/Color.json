@@ -1,0 +1,18 @@
+[
+    { "id": "black", "name": "黑色" },
+    { "id": "dark_blue", "name": "深蓝色" },
+    { "id": "dark_green", "name": "深绿色" },
+    { "id": "dark_aqua", "name": "湖蓝色" },
+    { "id": "dark_red", "name": "深红色" },
+    { "id": "dark_purple", "name": "紫色" },
+    { "id": "gold", "name": "金色" },
+    { "id": "gray", "name": "灰色" },
+    { "id": "dark_gray", "name": "深灰色" },
+    { "id": "blue", "name": "蓝色" },
+    { "id": "green", "name": "绿色" },
+    { "id": "aqua", "name": "天蓝色" },
+    { "id": "red", "name": "红色" },
+    { "id": "light_purple", "name": "粉红色" },
+    { "id": "yellow", "name": "黄色" },
+    { "id": "white", "name": "白色" }
+]

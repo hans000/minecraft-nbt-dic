@@ -1,0 +1,9 @@
+[
+    { "id": "normal", "name": "normal" },
+    { "id": "lazy", "name": "lazy" },
+    { "id": "worried", "name": "worried" },
+    { "id": "playful", "name": "playful" },
+    { "id": "brown", "name": "brown" },
+    { "id": "weak", "name": "weak" },
+    { "id": "aggressive", "name": "aggressive" }
+]

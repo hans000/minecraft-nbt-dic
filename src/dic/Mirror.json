@@ -1,0 +1,5 @@
+[
+    { "id": "NONE", "name": "NONE" },
+    { "id": "LEFT_RIGHT", "name": "LEFT_RIGHT" },
+    { "id": "FRONT_BACK", "name": "FRONT_BACK" }
+]
